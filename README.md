@@ -20,4 +20,4 @@ Install instructions are:
 9) give the executable permission to run with something like: 'sudo chmod +x HelloWorldBlink'
 10) run the program with something like: 'sudo ./libGPIODinput'
 
-![](https://github.com/eugenedakin/lgpio-I2C/blob/main/FinalScreenGrab.png)
+![](https://github.com/eugenedakin/lgpio-I2C/blob/main/I2CBreadboard.png)
