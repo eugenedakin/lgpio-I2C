@@ -19,3 +19,5 @@ Install instructions are:
 8) create a Blink example program and copy the program and libraries to the RaspberryPi Desktop
 9) give the executable permission to run with something like: 'sudo chmod +x HelloWorldBlink'
 10) run the program with something like: 'sudo ./libGPIODinput'
+
+![](https://github.com/eugenedakin/lgpio-I2C/blob/main/FinalScreenGrab.png)
